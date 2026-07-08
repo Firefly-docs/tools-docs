@@ -27,3 +27,7 @@
     e2fsck -p -f Firefly_Ubuntu_18.04.6_rootfs.img
     resize2fs -M Firefly_Ubuntu_18.04.6_rootfs.img
     ```
+
+## Next step: firmware repack
+
+After exporting rootfs, only the rootfs image file is generated. To create a complete flashable firmware image, use the firmware repack tool on the PC for secondary packaging. See: [Firmware Repack Tool](../Firmware%20Repack%20Tool/firmware_repack_tool.md).
