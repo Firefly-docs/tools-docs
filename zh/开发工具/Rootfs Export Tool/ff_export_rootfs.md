@@ -30,4 +30,4 @@
 
 ## 下一步：固件打包
 
-导出 rootfs 后，仅生成了 rootfs 镜像文件。如需生成可烧录的完整固件，需要在 PC 端使用固件打包工具进行二次打包。请参考：[固件打包工具](../固件打包工具/firmware_repack_tool.md)。
+导出 rootfs 后，仅生成了 rootfs 镜像文件。如需生成可烧录的完整固件，需要在 PC 端使用固件打包工具进行二次打包。请参考：[固件打包工具](../Firmware-Repack-Tool/firmware-repack-tool-2)。
